@@ -1,0 +1,32 @@
+
+# Python virtual environment
+venv/
+v/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Private video/audio files
+data/reference_videos/
+evaluation/transcripts/
+*.mp4
+*.wav
+*.mp3
+*.m4a
+
+# Generated files
+chroma_db/
+*.log
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db

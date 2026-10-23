@@ -1,0 +1,3 @@
+﻿video_name,group_label,duration_seconds,fps,reported_frame_count,sampled_frames,width,height,mean_brightness,brightness_variation,mean_contrast,mean_sharpness,dark_frame_percentage,potential_overexposed_frame_percentage,estimated_frame_gap_count,freeze_suspect_count,analysis_status
+B435 intermediate Part  - 2026-07-25.mp4,Good,2668.36,25.0,66709,534,1920,1080,63.01,25.22,60.93,321.82,36.33,0.0,0,262,Success
+B435 Intermediate Part  - 2026-08-28.mp4,Medium,2273.68,25.0,56842,455,1920,1080,80.25,24.14,72.52,480.98,8.35,0.0,0,192,Success

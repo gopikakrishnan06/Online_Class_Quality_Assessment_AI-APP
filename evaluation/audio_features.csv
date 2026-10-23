@@ -1,0 +1,3 @@
+category,file_name,duration_seconds,sample_rate,mean_rms_energy,silence_percentage,peak_amplitude,clipping_percentage
+Good,B435 intermediate Part  - 2026-07-25_audio.wav,2668.37,16000,0.03607,59.07,0.98999,0.0
+Medium,B435 Intermediate Part  - 2026-08-28_audio.wav,2273.69,16000,0.045458,38.58,0.98999,0.0

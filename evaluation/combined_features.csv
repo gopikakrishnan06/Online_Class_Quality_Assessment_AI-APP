@@ -1,0 +1,3 @@
+audio_file,video_file,category,match_status,duration_seconds,mean_rms_energy,silence_percentage,peak_amplitude,clipping_percentage,mean_brightness,brightness_variation,mean_contrast,mean_sharpness,dark_frame_percentage,overexposed_frame_percentage,freeze_suspect_count,video_analysis_status
+B435 intermediate Part  - 2026-07-25_audio.wav,B435 intermediate Part  - 2026-07-25.mp4,Good,Matched,2668.37,0.03607,59.07,0.98999,0.0,63.01,25.22,60.93,321.82,36.33,0.0,262,Success
+B435 Intermediate Part  - 2026-08-28_audio.wav,B435 Intermediate Part  - 2026-08-28.mp4,Medium,Matched,2273.69,0.045458,38.58,0.98999,0.0,80.25,24.14,72.52,480.98,8.35,0.0,192,Success
